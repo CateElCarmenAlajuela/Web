@@ -1,0 +1,36 @@
+{
+  "diaconias": [
+      {
+          "nombre": "Diaconia El Carmen",
+          "imagen1": "ElCarmen.jpg",
+          "imagen2": "Fondo.jpg",
+          "imagen3": "Fondo2.jpg",
+            "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
+            "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
+            "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>",
+            "Cuarto": "<li><a  href='Cuarto.html'>Cuarto</a></li>",
+            "Quinto": "<li><a  href='Quinto.html'>Quinto</a></li>",
+            "Sexto": "<li><a  href='Sexto.html'>Sexto</a></li>",
+            "Confirma": "<li><a href='Confirma.html'>Confirma</a></li>"
+
+      },
+    {
+          "nombre": "Diaconia de Monserrat",
+          "imagen1": "ElCarmen.jpg",
+          "imagen2": "Fondo.jpg",
+          "imagen3": "Fondo2.jpg",
+            "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
+            "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
+            "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
+      },
+    {
+          "nombre": "Diaconia de Santa Rosa de Lima",
+          "imagen1": "ElCarmen.jpg",
+          "imagen2": "Fondo.jpg",
+          "imagen3": "Fondo2.jpg",
+            "Primero": "<li><a  href='Primero.html'>Primero</a></li>",
+            "Segundo": "<li><a  href='Segundo.html'>Segundo</a></li>",
+            "Tercero": "<li><a  href='Tercero.html'>Tercero</a></li>"
+      }
+ ]
+}
